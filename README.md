@@ -29,14 +29,14 @@ It serves as a portfolio for potential employers and collaborators to explore my
 └── resources/                       # Notes, cheatsheets, references
 
 ```
-
+```
 📊 Projects Portfolio
 
 ✔️ Heart Disease Detection — Predict heart disease from medical data
 ✔️ Bulldozer Price Predictor — Forecast equipment prices using historical sales
 ✔️ Dog Breed Classifier — Image recognition project with deep learning
 ✔️ [Add more mini-projects here as you build]
-
+```
 📅 Learning Log
 
 I am documenting my daily/weekly learning progress in data-science-learning-log
