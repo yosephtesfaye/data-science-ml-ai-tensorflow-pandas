@@ -13,20 +13,7 @@ Data Engineering Tools (Pandas, Numpy, Scikit-learn, Spark, Kafka)
 
 It serves as a portfolio for potential employers and collaborators to explore my projects, coding style, and problem-solving ability.
 
-📂 Repository Structure
-📦 data-science-ml-ai-tensorflow-pandas
-├── README.md                        # Project overview (this file)
-├── data-science-learning-log/       # Daily/weekly learning logs
-│   ├── DAILY_PROGRESS_TEMPLATE.md   # Template for consistent progress tracking
-│   └── logs/                        # Your actual daily entries go here
-├── mini-projects/                   # Small practice projects & experiments
-│   ├── project1/
-│   ├── project2/
-├── capstone-projects/               # Larger real-world projects
-│   ├── heart-disease-predictor/
-│   ├── bulldozer-price-predictor/
-│   ├── dog-breed-classifier/
-└── resources/                       # Notes, cheatsheets, references
+📂 Repository Structure  
 
 🚀 Skills Demonstrated
 
